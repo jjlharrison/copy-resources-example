@@ -1,0 +1,1 @@
+This repository is an example used in a [Stack Overflow answer](https://stackoverflow.com/questions/48786625/how-can-one-include-resources-from-another-module-in-a-spring-boot-maven-multi-m/48938588#48938588).
